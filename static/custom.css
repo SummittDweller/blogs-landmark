@@ -1,5 +1,6 @@
 .site-header {
   display: block;
+  background: #2a373d url(https://iowageocachers.org/blog/new-igo-banner.png) no-repeat 50% 85% !important;
 }
 
 .site-header div {
@@ -9,10 +10,6 @@
 
 .transparent-layer {
   background-color: rgba(34, 34, 34, 0.0);
-}
-
-.site-header {
-  background: #2a373d url(img/new-igo-banner.png) no-repeat 50% 85% !important;
 }
 
 .site-header h2 {
