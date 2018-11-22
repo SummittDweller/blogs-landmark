@@ -1,0 +1,29 @@
+.site-header {
+  display: block;
+}
+
+.site-header div {
+  height: 150px;
+  display: block;
+}
+
+.transparent-layer {
+  background-color: rgba(34, 34, 34, 0.0);
+}
+
+.site-header {
+  background: #2a373d url(img/new-igo-banner.png) no-repeat 50% 85% !important;
+}
+
+.site-header h2 {
+  font-size: 2em;
+}
+
+a {
+  color: #12a733;
+}
+
+div.original {
+  background-color: rgba(255, 255, 128, .25);
+  padding: 1em 2em !important;
+}
