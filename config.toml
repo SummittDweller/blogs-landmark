@@ -10,6 +10,8 @@ paginate = 5
 # Enable comments powered by Disqus by entering your disqus shortname
 # disqusShortname = "spf13"
 
+# Removed google_analytics key/value since it exists below in [params]
+
 # Remove this line if you use this theme for a real website.
 # It allows you to preview the theme within the exampleSite folder
 # with the hugo server command
