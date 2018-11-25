@@ -39,5 +39,5 @@ RUN minify --recursive --verbose \
 
 ##
 
-FROM nginx/nginx:latest
+FROM nginx:1.15.6-alpine
 COPY --from=2 /data/public /usr/share/nginx/html
