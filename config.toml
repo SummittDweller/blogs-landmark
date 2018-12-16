@@ -1,5 +1,5 @@
 
-baseurl = "https://iowageocachers.org"
+baseurl = "https://iowageocachers.org/"
 languageCode = "en-us"
 title = "Iowa.Landmark's Blog"
 # theme = "ananke"
